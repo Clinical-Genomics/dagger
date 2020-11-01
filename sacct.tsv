@@ -1,0 +1,5 @@
+1		fastqc_S1	qc_align	grey90
+2		fastqc_S2	qc_align	grey90
+3	1,2	bwa_angrybird	qc_align	grey90
+4	3	pileup_angrybird	variant_call	khaki
+5	4,3	vep_angrybird	annotate	honeydew
