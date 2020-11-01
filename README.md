@@ -4,7 +4,16 @@ A fast and quick way to build, visualize, and interact with dependency tree
 
 # Run
 
-`./dagger -out-file dagger.png sacct.tsv`
+`./dagger -out-file dagger.png tests/sacct.tsv`
+
+Output:
+
+<p align="center">
+	<a href="https://github.com/Clinical-Genomics/GoLURM">
+		<img src="tests/dagger.png">
+	</a>
+</p>
+
 
 # Help
 
